@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sabin Tom, been in web development since 2004
+- 👋 Hi, I’m Sabin, doing web development since 2004
 - 👀 I’m interested in web development and devops
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web development projects
