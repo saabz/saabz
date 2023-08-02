@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sabin, doing web development since 2004
-- 👀 I’m interested in web development and devops
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Saabz, doing web development since 2004
+- 👀 I’m interested in web development, hybrid mobile development and devops
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - email
 
